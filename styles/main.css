@@ -1,0 +1,45 @@
+.header
+{
+  display: flex;
+  width: 100%;
+  background-color: aquamarine;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.sub-header
+{
+  display: flex;
+  justify-content: space-evenly;
+}
+.parent-body
+{
+  display: flex;
+  width: 100%;
+}
+.child-body
+{
+  width: 100%;
+  justify-content: space-evenly;
+  height: 700px;
+  background-color: rgb(105, 185, 219);
+  margin-right: 10px;
+}
+.fishlist
+{
+  padding: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+}
+.aquarium
+{
+  padding: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+}
+.travel
+{
+  padding: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+}
