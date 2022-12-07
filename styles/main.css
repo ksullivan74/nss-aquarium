@@ -11,6 +11,7 @@
 {
   display: flex;
   justify-content: space-evenly;
+  flex-wrap: wrap;
 }
 .parent-body
 {
@@ -21,7 +22,7 @@
 {
   width: 100%;
   justify-content: space-evenly;
-  height: 700px;
+  height: fit-content;
   background-color: rgb(105, 185, 219);
   margin-right: 10px;
 }
